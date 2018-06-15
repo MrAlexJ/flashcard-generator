@@ -1,7 +1,7 @@
 const inquirer = require("inquirer");
 const library = require("./cardLibrary.json");
-const BasicCard = require("./BasicCard.js")
-const ClozeCard = require("./ClozeCard.js")
+const BasicCard = require("./basic.js")
+const ClozeCard = require("./clozeCard.js")
 const colors = require('colors');
 const fs = require("fs");
 

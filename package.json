@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrAlexJ/Flashcard-Generator.git"
+    "url": "git+https://github.com/MrAlexJ/flashcard-generator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MrAlexJ/Flashcard-Generator/issues"
+    "url": "https://github.com/MrAlexJ/flashcard-generator/issues"
   },
-  "homepage": "https://github.com/MrAlexJ/Flashcard-Generator#readme",
+  "homepage": "https://github.com/MrAlexJ/flashcard-generator#readme",
   "dependencies": {
     "colors": "^1.1.2",
     "init": "^0.1.2",
